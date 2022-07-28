@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sillviodaniel&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="sillviodaniel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sillviodaniel&show_icons=true&locale=en" alt="sillviodaniel" /></p>
+<p>&nbsp;<img align="center" float="left" src="https://github-readme-stats.vercel.app/api?username=sillviodaniel&show_icons=true&locale=en" alt="sillviodaniel" /></p>
 
 
 
