@@ -18,7 +18,6 @@ Meu nome é Silvio Daniel, sou estudante de Ciência da computação e um entusi
   
 -  🧰 Ferramentas: **Python, SQL, Excel, Tableau, PowerBI**
 
-- 📫 Meu contato: **silviodp14@outlook.com**
 
 ### Conecte-se comigo
 <a href="https://br.linkedin.com/in/silvio-daniel">
