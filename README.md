@@ -15,9 +15,8 @@ Meu nome é Silvio Daniel, sou estudante de Ciência da computação e um entusi
 * Excel
 * Tableau
 * PowerBI
--  👨‍💻 Meus projetos: [Portifólio](https://github.com/SillvioDaniel/links_portifolio)
+### 👨‍💻 Meus projetos: [Portifólio](https://github.com/SillvioDaniel/links_portifolio)
   
--  🧰 Ferramentas: **Python, SQL, Excel, Tableau, PowerBI**
 
 
 ### Conecte-se comigo
