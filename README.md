@@ -1,8 +1,6 @@
 # Olá 👋
-![banner](https://github.com/SillvioDaniel/SillvioDaniel/assets/54801941/33ad817b-4809-457d-8cd7-76182352515e)
 
-
-Meu nome é Silvio Daniel, sou estudante de Ciência da computação e um entusiasta de dados. Atualmente, estou conduzindo projetos de análise e visualização de dados, além de possuir experiência em modelagem e design de banco de dados. Estou dedicando meus estudos a Machine Learning e Inteligência Artificial.
+Meu nome é Silvio Daniel, sou um entusiasta de dados. Atualmente,  conduzi projetos de análise e visualização de dados, além de possuir experiência em modelagem e design de banco de dados.
 
 
 ### 🌱 Estou aprendendo
@@ -13,7 +11,6 @@ Meu nome é Silvio Daniel, sou estudante de Ciência da computação e um entusi
 * Python
 * SQL
 * Excel
-* Tableau
 * PowerBI
 ### 👨‍💻 Meus projetos: [Portifólio](https://github.com/SillvioDaniel/links_portifolio)
   
